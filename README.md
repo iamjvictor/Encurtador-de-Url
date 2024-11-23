@@ -11,7 +11,7 @@ Este projeto é um encurtador de URLs que utiliza serviços da AWS para criar e 
 - **Amazon S3**: Utilizado para armazenar as URLs originais.
 
 ## Diagrama do Projeto
-![Diagrama do Projeto](LambdaCreateUrl/media/diagram.png)
+![Diagrama do Projeto](LambdaCreateUrl/media/Diagram.png)
 
 ## Fluxo de Trabalho
 1. **Cliente**: O cliente faz uma requisição para encurtar uma URL ou acessar uma URL curta.
