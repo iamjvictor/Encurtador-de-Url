@@ -1,0 +1,28 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Intellij
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Outros arquivos de projeto
+*.class
+*.log
+*.pyc
+*.pyo
+__pycache__/
+*.swp
+*~
+.DS_Store
+
+# Build
+/target/
+
+# Maven
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
